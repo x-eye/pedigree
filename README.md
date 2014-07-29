@@ -1,0 +1,4 @@
+pedigree
+========
+
+Test for iBinom
